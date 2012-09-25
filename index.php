@@ -1,2 +1,2 @@
-<b>Welcome to Azure !!!</b>
-<b>Commit to GitHub, v.2</b>
+<b>Welcome to Azure !!!</b><br>
+<b>Commit to GitHub, v.3</b>
